@@ -1,16 +1,28 @@
-### Hi there 👋
+### 👋 Всем привет!
+Меня зовут Алексей, обо мне:
 
-<!--
-**Pancfly/Pancfly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* 💻 Я начинающий frontend-разработчик
+* 🧐 Мне нравится програмировать и создавать что-то новое
+* 💪 Стремлюсь к работе с настоящими боевыми проектами
+* 📖 Стараюсь изучать новое и повторять пройденное
+* 🎓 Хочу учиться новому
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Мой стек:
+
+![image](https://user-images.githubusercontent.com/82964950/132123295-cddd513a-fd9c-4a49-940e-e3d6cd167c79.png)
+![image](https://user-images.githubusercontent.com/82964950/132123199-3c3d903c-0389-47f2-86dc-e525476667bc.png)
+![image](https://user-images.githubusercontent.com/71218799/136786201-c4d8b0e4-2467-4c73-a420-02b16763ac45.png)
+![image](https://user-images.githubusercontent.com/71218799/136786236-2607e149-f23d-472c-b9c2-491d0bb8b29d.png)
+![image](https://user-images.githubusercontent.com/71218799/136786279-26877063-095e-4378-9cb1-9b519451a64d.png)
+![image](https://user-images.githubusercontent.com/71218799/136786306-4aca0c9c-51ba-4c2e-8796-e8685c25c7c7.png)
+![image](https://user-images.githubusercontent.com/71218799/136786340-8d08970b-a077-4b78-80f0-1f71baf4e42b.png)
+![image](https://user-images.githubusercontent.com/82964950/132123744-a7a91dd7-bf58-4b84-81a2-ffcdb58e5050.png)
+
+
+## Связаться со мной:
+
+<a href="mailto: pancfly@gmail.com" target="blank"><img align="center" src="https://user-images.githubusercontent.com/82964950/132548062-107fdc94-a387-464c-bf89-3a83c8b92679.png" alt="" height="50" width="50" /></a>
+<a href="https://wa.me/+79286117386" target="blank"><img align="center" src="https://user-images.githubusercontent.com/82964950/132549942-57ec7c67-3203-4384-8b98-669620d31237.png" alt="" height="50" width="50" /></a>
+<a href="https://vk.com/pancfly" target="blank"><img align="center" src="https://user-images.githubusercontent.com/82964950/132550014-62422cbd-3232-46f1-8930-57a1142a14cc.png" alt="" height="50" width="50" /></a>
